@@ -1,0 +1,14 @@
+.header-content{
+    min-height: 75vh;
+    background: linear-gradient(rgba(141, 39, 174, 0.3), rgba(141, 39, 174, 0.5)), url("https://img.freepik.com/free-vector/abandoned-library-with-old-books-dusty-shelves-working-desks-with-lamps-vector-cartoon-illustration-large-room-with-bookshelves-walls-covered-with-cobweb-haunted-archive-interior_107791-22989.jpg?t=st=1731487385~exp=1731490985~hmac=2a11cdea7be992c8550179bc9a06a49fbd22c6fac9e0d2c678773eefc6c946df&w=1060") center/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    font-size: 4.2rem;
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
